@@ -1,0 +1,52 @@
+#purple {
+	padding-top: 100px;
+	width: 500px;
+	height: 550px;
+	background-color: purple;
+}
+
+#gray {
+	padding-left: 80px;
+	width: 420px;
+	height: 550px;
+	background-color: lightgray;
+}
+
+#red {
+	width: 340px;
+	height: 550px;
+	background-color: red;
+}
+
+#minisquare {
+	position: absolute;
+	margin-top: 32px;
+	margin-left: 50px;
+	width: 240px;
+	height: 450px;
+}
+
+.miniblue {
+	position: relative;
+	width: 240px;
+	height: 150px;
+	background-color: blue;
+}
+
+.miniyellow {
+	position: relative;
+	width: 75px;
+	height: 75px;
+	margin-left: 15px;
+	top: 10%;
+	background-color: yellow;
+}
+
+.minigreen {
+	position: relative;
+	width: 120px;
+	height: 100px;
+	margin-left: 105px;
+	top: -40%;
+	background-color: green;
+}
