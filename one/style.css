@@ -1,0 +1,27 @@
+.container {
+	background-color: yellow;
+	width: 500px;
+	height: 600px;
+}
+
+.top-bar {
+	background-color: red;
+	width: 500px;
+	height: 60px;
+}
+
+.mid-sec {
+	padding-left: 50px;
+}
+
+.center-body {
+	background-color: blue;
+	width: 400px;
+	height: 500px;
+}
+
+.bottom {
+	background-color: green;
+	width: 400px;
+	height: 40px;
+}
